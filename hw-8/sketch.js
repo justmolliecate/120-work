@@ -2,7 +2,7 @@
 
 function setup() {
     createCanvas(windowWidth, windowHeight);
-    frameRate(.5);
+    frameRate(1);
 }
 
 let pos_x = 0;
